@@ -1,0 +1,11 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ArcherYT/embeds",
+  "author": "ZerioDev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
